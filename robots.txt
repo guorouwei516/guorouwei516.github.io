@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SocratesAcademy.github.io//sitemap.xml
+Sitemap: https://SocratesAcademy.github.io/sitemap.xml
