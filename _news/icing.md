@@ -33,7 +33,7 @@ from iching import iching
 def ichingbook(birthday):
     iching.ichingDate(birthday)
     fixPred, changePred   = iching.getPredict()
-    iching.plotTransition(6, w = 15)
+    # iching.plotTransition(6, w = 15)
     guaNames = iching.ichingName(fixPred, changePred) 
     fixText = iching.ichingText(fixPred, iching)
     if changePred:
@@ -79,7 +79,7 @@ iching.ichingName(fixPred, changePred  )
 ##### 3. Get the iching text
 
 ```python
-iching.ichingText(fixPred, iching)
+iching.ichingText(fixPred)
 ```
 
 
