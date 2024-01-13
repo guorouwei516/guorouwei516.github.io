@@ -7,11 +7,7 @@ profile:
   align: right
   image: avatar.jpeg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Room 307</p>
-    <p>School of Journalism and Communication, Nanjing University (Xianlin Campus)</p>
-    <p>163 Xianlin Street, Nanjing, Jiangsu Province 210023</p>
-
+  address: 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
