@@ -6,7 +6,7 @@ subtitle:
 profile:
   align: right
   image: avatar.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Room 307</p>
     <p>School of Journalism and Communication, Nanjing University (Xianlin Campus)</p>
