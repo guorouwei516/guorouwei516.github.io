@@ -177,7 +177,7 @@ Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/0
 
 ### Installation
 
-0. clcik **use this template** on this page -- create a new repo
+0. clcik **use this template** on this page https://github.com/SocratesClub/SocratesClub.github.io -- and select "create a new repo"
    
 #### Deployment
 
