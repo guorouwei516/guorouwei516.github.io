@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: 
-description: 
+title: Publication
+description: The only thing that I know is I know nothing!
 nav: true
 nav_order: 1
 ---
