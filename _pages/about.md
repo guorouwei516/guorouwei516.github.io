@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: 
 profile:
-  align: left
+  align: right
   image: avatar.jpeg
   image_circular: true # crops the image to make it circular
   address: 
