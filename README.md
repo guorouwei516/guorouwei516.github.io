@@ -1,4 +1,7 @@
 # al-folio
+
+<img width="1058" height="630" alt="image" src="https://github.com/user-attachments/assets/453cb26c-d938-4f9b-8b6a-c5c3cff1143d" />
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
