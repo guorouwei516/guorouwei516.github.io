@@ -174,13 +174,9 @@ Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/0
 
 ### Installation
 
-For a hands-on walkthrough of al-folio installation, check out [this cool video tutorial](https://www.youtube.com/watch?v=g6AJ9qPPoyc) by one of the community members! 🎬 🍿
-
-
+0. clcik **use this template** on this page -- create a new repo
+   
 #### Deployment
-
-Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
-Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0.3.5), **al-folio** will automatically re-deploy your webpage each time you push new changes to your repository! :sparkles:
 
 **For personal and organization webpages:**
 
